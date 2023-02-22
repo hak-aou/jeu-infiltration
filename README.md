@@ -10,8 +10,7 @@
 </p>
 
 ## Présentation
-Ce projet de fin de smestre est la synthèse de tout ce que nous avions appris en C. On a du réalisé un jeu d'infiltration ou le joueur doit récupérer 3 reliques sur le terrain puis revenir à la base pour valider la partie. Si la partie est gardien et qu'il ne se fait pas touché par un gardien il peux écrire son pseudo dans le tableau des scores.
-
+Ce projet de fin de semestre est la synthèse de tout ce que nous avions appris en C. On a du réalisé un jeu d'infiltration ou le joueur doit récupérer 3 reliques sur le terrain puis revenir à la base pour valider la partie. S'il récupère toutes les reliques et qu'il ne se fait pas toucher par un gardien, il peut écrire son pseudo dans le tableau des scores.
 
 ## Fonctionalités
 - Génération de terrain aléatoire (méthode de division récursive)
