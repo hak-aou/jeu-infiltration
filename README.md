@@ -24,7 +24,7 @@ Ce projet de fin de smestre est la synthèse de tout ce que nous avions appris e
 - Sons et musique
 
 
-## Début de partie
+## Début de partie
 - Jouer
 - Paramètres
 - Quitter
